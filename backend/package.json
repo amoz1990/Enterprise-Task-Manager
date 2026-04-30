@@ -1,0 +1,8 @@
+# 克隆项目
+git clone https://github.com/你的用户名/task-manager-fullstack.git
+
+# 后端启动
+cd backend && npm install && npm run dev
+
+# 前端启动（新开终端）
+cd frontend && npm install && npm run dev
